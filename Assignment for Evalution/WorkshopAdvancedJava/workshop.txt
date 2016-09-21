@@ -1,0 +1,5 @@
+we have implemented the folloing points in this project:
+
+ * admin can accept the appointment
+ * admin can reject the appointment
+ * admin can update the status of appointment by status change
